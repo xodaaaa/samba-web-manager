@@ -129,7 +129,7 @@ Los datos de la aplicación se almacenan en `/opt/samba-manager/data/`:
 
 ## 📜 Licencia
 
-MIT License © 2025
+MIT License © 2026
 
 ## 🤝 Contribuciones
 
